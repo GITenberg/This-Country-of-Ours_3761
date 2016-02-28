@@ -1,0 +1,29 @@
+_repo: This-Country-of-Ours_3761
+creator:
+  author:
+    agent_name: Marshall, H. E. (Henrietta Elizabeth)
+    alias: Marshall, Henrietta Elizabeth
+    birthdate: 1867
+    deathdate: 1941
+    gutenberg_agent_id: '1853'
+    url: http://www.gutenberg.org/2009/agents/1853
+    wikipedia: http://en.wikipedia.org/wiki/Henrietta_Elizabeth_Marshall
+description: This vountry of ours is a classic work featuring details of United States
+  history from settlement through the Woodrow administration. Included among the ninety-nine
+  chapters are accounts of exploration, pioneers, settlement in the new world, and
+  the founding of the constitution. This is an excellent timeless work which is great
+  for students and scholars of all ages.
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History'
+- !lcc 'E151'
+title: This Country of Ours
+url: http://www.gutenberg.org/ebooks/3761
