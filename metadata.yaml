@@ -1,5 +1,8 @@
 _repo: This-Country-of-Ours_3761
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Marshall, H. E. (Henrietta Elizabeth)
@@ -14,6 +17,8 @@ description: This vountry of ours is a classic work featuring details of United 
   chapters are accounts of exploration, pioneers, settlement in the new world, and
   the founding of the constitution. This is an excellent timeless work which is great
   for students and scholars of all ages.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3761#This-Country-of-Ours
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
